@@ -1,4 +1,5 @@
-## 👋Hi there, my name is **Nguyễn Đức Phát**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nguyen Duc Phat
+========================================================================================================================================
 I'm currently a final-year AI student at The Saigon International University with a passion about building intelligent systems and solving real-world problems with Machine Learning & Deep Learning.
 
 ## 🌐Socials
